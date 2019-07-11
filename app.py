@@ -26,7 +26,7 @@ def callback():
     if (userText == 'กินข้าวหรือยัง') :
         sendText(user,'ยังเลยแต่เราอยากกินเธอมากกว่า')
     elif (userText == 'ชื่ออะไรหรอ') :
-        sendText(user,'เช่อ'บุ๊ค มะพร้าวแก้ว จร้าา')
+        sendText(user,'เช่อ บุ๊ค มะพร้าวแก้ว จร้าา')
     elif (userText == 'รักนะ') :
         sendText(user,'รักด้วย')
     elif (userText == 'เอ็นดู') :
